@@ -24,38 +24,38 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Full tutorial](https://pullstackdeveloper.com/post/securely-managing-credentials-in-nestjs-applications-with-azure-key-vault) Securely Managing Credentials in NestJS Applications with Azure Key Vault.
 
 ## Installation
 
 ```bash
-$ yarn install
+$ npm install
 ```
 
 ## Running the app
 
 ```bash
 # development
-$ yarn run start
+$ npm run start
 
 # watch mode
-$ yarn run start:dev
+$ npm run start:dev
 
 # production mode
-$ yarn run start:prod
+$ npm run start:prod
 ```
 
 ## Test
 
 ```bash
 # unit tests
-$ yarn run test
+$ npm run test
 
 # e2e tests
-$ yarn run test:e2e
+$ npm run test:e2e
 
 # test coverage
-$ yarn run test:cov
+$ npm run test:cov
 ```
 
 ## Support
@@ -64,9 +64,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Fernando Nunes](https://www.linkedin.com/in/fernando-nunes-9b0362132/)
+- Website - [Pull Stack Developer](https://pullstackdeveloper.com/home)
+- Twitter - [@pullstackdev88](https://x.com/pullstackdev88)
 
 ## License
 
